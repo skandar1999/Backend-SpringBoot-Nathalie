@@ -6,8 +6,9 @@ import org.junit.jupiter.api.Test;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.boot.test.context.SpringBootTest;
 
-import com.skandar.Etablissement.model.User;
-import com.skandar.Etablissement.repos.UserRepository;
+import com.skandar.Nathalie.UserNotFoundException;
+import com.skandar.Nathalie.model.User;
+import com.skandar.Nathalie.repos.UserRepository;
 
 @SpringBootTest
 class NathalieApplicationTests {

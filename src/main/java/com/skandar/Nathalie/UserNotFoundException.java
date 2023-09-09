@@ -1,4 +1,4 @@
-package com.skandar.Etablissement;
+package com.skandar.Nathalie;
 
 public class UserNotFoundException extends RuntimeException {
     public UserNotFoundException(String message) {

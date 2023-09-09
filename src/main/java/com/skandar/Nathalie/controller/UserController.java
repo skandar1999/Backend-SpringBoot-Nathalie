@@ -1,4 +1,4 @@
-package com.skandar.Etablissement.controller;
+package com.skandar.Nathalie.controller;
 
 import java.util.List;
 
@@ -11,7 +11,7 @@ import org.springframework.web.bind.annotation.RequestBody;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
 
-import com.skandar.Etablissement.model.User;
+import com.skandar.Nathalie.model.User;
 import com.skandar.service.UserService;
 
 @RestController

@@ -1,4 +1,4 @@
-package com.skandar.Etablissement;
+package com.skandar.Nathalie;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

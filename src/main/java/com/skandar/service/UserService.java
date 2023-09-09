@@ -2,7 +2,7 @@ package com.skandar.service;
 
 import java.util.List;
 
-import com.skandar.Etablissement.model.User;
+import com.skandar.Nathalie.model.User;
 
 
 public interface UserService {

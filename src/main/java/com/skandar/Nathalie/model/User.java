@@ -1,4 +1,4 @@
-package com.skandar.Etablissement.model;
+package com.skandar.Nathalie.model;
 
 import jakarta.persistence.Entity;
 import jakarta.persistence.GeneratedValue;

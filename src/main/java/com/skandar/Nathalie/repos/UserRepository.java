@@ -1,11 +1,11 @@
-package com.skandar.Etablissement.repos;
+package com.skandar.Nathalie.repos;
 
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.data.jpa.repository.Modifying;
 import org.springframework.data.jpa.repository.Query;
 import org.springframework.data.repository.query.Param;
 
-import com.skandar.Etablissement.model.User;
+import com.skandar.Nathalie.model.User;
 
 public interface UserRepository extends JpaRepository<User, Long > {
 
