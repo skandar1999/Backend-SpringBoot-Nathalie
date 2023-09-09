@@ -1,4 +1,4 @@
-package com.skandar.Etablissement;
+package com.skandar.Nathalie;
 
 import java.util.List;
 
